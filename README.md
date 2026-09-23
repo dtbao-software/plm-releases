@@ -11,7 +11,7 @@ This repository holds release files only: installers and auto-update files.
 
 ## Install
 
-Download `Product Lifecycle Management_<version>_x64-setup.exe` from the
+Download `Product.Lifecycle.Management_<version>_x64-setup.exe` from the
 [latest release](https://github.com/dtbao-software/plm-releases/releases/latest)
 and run it. If SmartScreen warns, choose *More info* → *Run anyway*.
 
